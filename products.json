@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Sneakers",
+    "category": "Shoes",
+    "price": 49.99,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80",
+    "description": "Comfortable everyday sneakers."
+  },
+  {
+    "id": 2,
+    "name": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 39.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=600&q=80",
+    "description": "Wireless headphones for music and calls."
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 59.99,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=600&q=80",
+    "description": "A stylish smartwatch for everyday use."
+  },
+  {
+    "id": 4,
+    "name": "Travel Backpack",
+    "category": "Bags",
+    "price": 34.99,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=600&q=80",
+    "description": "Durable backpack for travel and school."
+  },
+  {
+    "id": 5,
+    "name": "Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 19.99,
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=600&q=80",
+    "description": "Soft everyday cotton T-shirt."
+  },
+  {
+    "id": 6,
+    "name": "Classic Sunglasses",
+    "category": "Accessories",
+    "price": 24.99,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=600&q=80",
+    "description": "Classic sunglasses for everyday wear."
+  },
+  {
+    "id": 7,
+    "name": "Leather Wallet",
+    "category": "Accessories",
+    "price": 29.99,
+    "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=600&q=80",
+    "description": "Compact everyday wallet."
+  },
+  {
+    "id": 8,
+    "name": "Running Shoes",
+    "category": "Shoes",
+    "price": 54.99,
+    "image": "https://images.unsplash.com/photo-1552346154-21d32810aba3?auto=format&fit=crop&w=600&q=80",
+    "description": "Lightweight shoes for running and exercise."
+  }
+]
